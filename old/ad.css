@@ -1,0 +1,28 @@
+#container {
+	height: 1100px;
+	width: 80%;
+	margin-left: 10%;
+	float: left;
+	border: 5px solid black;
+	background-color: pink;
+}
+
+#header {
+
+}
+
+
+.submenu {
+	/* start with a dot for CSS classes, which can be used many times*/
+	width: 100px;
+	height: 50px;
+	background-color: orange;
+	margin: 5px;
+	float: left;
+}
+
+
+#textarea {
+
+
+}
